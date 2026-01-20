@@ -3,3 +3,5 @@
 FILE: [syllabus.tex](https://github.com/coltongearhart/math320/blob/main/intro/syllabus.tex) and [style-syllabus.sty](https://github.com/coltongearhart/math320/blob/main/intro/style-syllabus.sty)
 
 <embed src="intro/syllabus.pdf" type="application/pdf" width="100%" height="100%"></embed>
+
+<embed src="intro/syllabus-exam-p.pdf" type="application/pdf" width="100%" height="100%"></embed>

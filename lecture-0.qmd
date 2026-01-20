@@ -2,7 +2,7 @@
 
 ## Guided Notes
 
-FILES: BLANK [lecture-0.pdf](https://github.com/coltongearhart/math320/blob/main/lectures/lecture-0.pdf), [lecture-0.tex](https://github.com/coltongearhart/math320/blob/main/lectures/lecture-0.tex), and [style-notes.sty](https://github.com/coltongearhart/math320/blob/main/lectures/style-notes.sty)
+FILES: BLANK [lecture-0.pdf](https://github.com/coltongearhart/math320/blob/main/lectures/lecture-0.pdf), [lecture-0.tex](https://github.com/coltongearhart/math320/blob/main/lectures/lecture-0.tex), and [styke-lectures.sty](https://github.com/coltongearhart/math320/blob/main/lectures/styke-lectures.sty)
 
 <embed src="lectures/lecture-0-COMPLETED.pdf" type="application/pdf" width="100%" height="1000px"></embed>
 

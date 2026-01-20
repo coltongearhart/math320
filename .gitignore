@@ -1,12 +1,10 @@
 .Rproj.user
 .Rhistory
-.RData
 .Ruserdata
 .DS_Store
 
 /.quarto/
 
-*.docx
 *.maf
 *.mtc0
 *.stc1

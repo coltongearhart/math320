@@ -24,7 +24,7 @@
     "href": "index.html#course-pack",
     "title": "MATH 320 –Probability",
     "section": "Course Pack",
-    "text": "Course Pack\nFILES: BLANK notes-all.pdf, notes-all.tex, notes-completed.tex, and style-notes.sty",
+    "text": "Course Pack\nFILES: BLANK lectures-all.pdf, lectures-all.tex, lectures-completed.tex, and style-lectures.sty",
     "crumbs": [
       "Overview"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#source",
     "title": "MATH 320 –Probability",
     "section": "Source",
-    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math125.",
+    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/math320.",
     "crumbs": [
       "Overview"
     ]
@@ -106,8 +106,8 @@
     "objectID": "lecture-1.html#in-class-activity",
     "href": "lecture-1.html#in-class-activity",
     "title": "Lecture 1 – Set Theory",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-1.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-1.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 1 -- Set Theory"
@@ -128,8 +128,8 @@
     "objectID": "lecture-2.html#in-class-activity",
     "href": "lecture-2.html#in-class-activity",
     "title": "Lecture 2 – Counting",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-2.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-2.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 2 -- Counting"
@@ -161,8 +161,8 @@
     "objectID": "lecture-3.html#in-class-activity",
     "href": "lecture-3.html#in-class-activity",
     "title": "Lecture 3 – Probability",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-3.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-3.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 3 -- Probability"
@@ -194,8 +194,8 @@
     "objectID": "lecture-4.html#in-class-activity",
     "href": "lecture-4.html#in-class-activity",
     "title": "Lecture 4 – Conditional Probability",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-4.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-4.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 4 -- Conditional Probability"
@@ -216,8 +216,8 @@
     "objectID": "lecture-5.html#in-class-activity",
     "href": "lecture-5.html#in-class-activity",
     "title": "Lecture 5 – Independent Events",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-5.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-5.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 5 -- Independent Events"
@@ -249,8 +249,8 @@
     "objectID": "lecture-6.html#in-class-activity",
     "href": "lecture-6.html#in-class-activity",
     "title": "Lecture 6 – Bayes’ Theorem",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-6.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-6.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 1",
       "Lecture 6 -- Bayes' Theorem"
@@ -314,8 +314,8 @@
     "objectID": "lecture-8.html#in-class-activity",
     "href": "lecture-8.html#in-class-activity",
     "title": "Lecture 8 – Distribution Functions",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-7-8.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-7-8.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 2",
       "Lecture 8 -- Distribution Functions"
@@ -347,8 +347,8 @@
     "objectID": "lecture-9.html#in-class-activity",
     "href": "lecture-9.html#in-class-activity",
     "title": "Lecture 9 – Summary Measures",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-9.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-9.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 2",
       "Lecture 9 -- Summary Measures"
@@ -412,8 +412,8 @@
     "objectID": "lecture-10.html#in-class-activities",
     "href": "lecture-10.html#in-class-activities",
     "title": "Lecture 10 – Discrete Distributions",
-    "section": "In Class Activities",
-    "text": "In Class Activities\nFILES: in-class-10.tex, in-class-10-2.tex. and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activities",
+    "text": "In-Class Activities\nFILES: in-class-10.tex, in-class-10-2.tex. and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 3",
       "Lecture 10 -- Discrete Distributions"
@@ -445,8 +445,8 @@
     "objectID": "lecture-11.html#in-class-activities",
     "href": "lecture-11.html#in-class-activities",
     "title": "Lecture 11 – Continuous Distributions",
-    "section": "In Class Activities",
-    "text": "In Class Activities\nFILES: in-class-11.tex, in-class-11-2.tex. and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activities",
+    "text": "In-Class Activities\nFILES: in-class-11.tex, in-class-11-2.tex. and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 3",
       "Lecture 11 -- Continuous Distributions"
@@ -478,8 +478,8 @@
     "objectID": "lecture-12.html#in-class-activity",
     "href": "lecture-12.html#in-class-activity",
     "title": "Lecture 12 – Moment Generating Functions",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-12.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-12.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "Test 3",
       "Lecture 12 -- Moment Generating Functions"
@@ -512,7 +512,7 @@
     "href": "test-3-after.html",
     "title": "After Test 3",
     "section": "",
-    "text": "This section contains all of the content and assessments included in the final post test 3.",
+    "text": "This section contains all of the content and assessments included on the final after test 3.",
     "crumbs": [
       "After Test 3"
     ]
@@ -532,8 +532,8 @@
     "objectID": "lecture-13.html#in-class-activity",
     "href": "lecture-13.html#in-class-activity",
     "title": "Lecture 13 – Functions of Random Variables",
-    "section": "In Class Activity",
-    "text": "In Class Activity\nFILES: in-class-13.tex and style-assessments.sty\nInstructors can contact me for keys :)",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nFILES: in-class-13.tex and style-assessments.sty\nInstructors can contact me for keys :)",
     "crumbs": [
       "After Test 3",
       "Lecture 13 -- Functions of Random Variables"
@@ -570,6 +570,160 @@
     "crumbs": [
       "After Test 3",
       "Review -- Final"
+    ]
+  },
+  {
+    "objectID": "lecture-11.html",
+    "href": "lecture-11.html",
+    "title": "Lecture 11 – Continuous Distributions",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-11.pdf, lecture-11.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 3",
+      "Lecture 11 -- Continuous Distributions"
+    ]
+  },
+  {
+    "objectID": "lecture-13.html",
+    "href": "lecture-13.html",
+    "title": "Lecture 13 – Functions of Random Variables",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-13.pdf, lecture-13.tex, and style-lectures.sty",
+    "crumbs": [
+      "After Test 3",
+      "Lecture 13 -- Functions of Random Variables"
+    ]
+  },
+  {
+    "objectID": "lecture-0.html",
+    "href": "lecture-0.html",
+    "title": "Lecture 0 – Course Overview",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-0.pdf, lecture-0.tex, and styke-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 0 -- Course Overview"
+    ]
+  },
+  {
+    "objectID": "lecture-1.html",
+    "href": "lecture-1.html",
+    "title": "Lecture 1 – Set Theory",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-1.pdf, lecture-1.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 1 -- Set Theory"
+    ]
+  },
+  {
+    "objectID": "lecture-3.html",
+    "href": "lecture-3.html",
+    "title": "Lecture 3 – Probability",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-3.pdf, lecture-3.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 3 -- Probability"
+    ]
+  },
+  {
+    "objectID": "lecture-4.html",
+    "href": "lecture-4.html",
+    "title": "Lecture 4 – Conditional Probability",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-4.pdf, lecture-4.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 4 -- Conditional Probability"
+    ]
+  },
+  {
+    "objectID": "lecture-5.html",
+    "href": "lecture-5.html",
+    "title": "Lecture 5 – Independent Events",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-5.pdf, lecture-5.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 5 -- Independent Events"
+    ]
+  },
+  {
+    "objectID": "lecture-6.html",
+    "href": "lecture-6.html",
+    "title": "Lecture 6 – Bayes’ Theorem",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-6.pdf, lecture-6.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 6 -- Bayes' Theorem"
+    ]
+  },
+  {
+    "objectID": "lecture-7.html",
+    "href": "lecture-7.html",
+    "title": "Lecture 7 – Random Variables",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-7.pdf, lecture-7.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 2",
+      "Lecture 7 -- Random Variables"
+    ]
+  },
+  {
+    "objectID": "lecture-8.html",
+    "href": "lecture-8.html",
+    "title": "Lecture 8 – Distribution Functions",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-8.pdf, lecture-8.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 2",
+      "Lecture 8 -- Distribution Functions"
+    ]
+  },
+  {
+    "objectID": "lecture-9.html",
+    "href": "lecture-9.html",
+    "title": "Lecture 9 – Summary Measures",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-9.pdf, lecture-9.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 2",
+      "Lecture 9 -- Summary Measures"
+    ]
+  },
+  {
+    "objectID": "lecture-10.html",
+    "href": "lecture-10.html",
+    "title": "Lecture 10 – Discrete Distributions",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-10.pdf, lecture-10.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 3",
+      "Lecture 10 -- Discrete Distributions"
+    ]
+  },
+  {
+    "objectID": "lecture-12.html",
+    "href": "lecture-12.html",
+    "title": "Lecture 12 – Moment Generating Functions",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-12.pdf, lecture-12.tex, and style-lectures.sty",
+    "crumbs": [
+      "Test 3",
+      "Lecture 12 -- Moment Generating Functions"
+    ]
+  },
+  {
+    "objectID": "lecture-2.html",
+    "href": "lecture-2.html",
+    "title": "Lecture 2 – Counting",
+    "section": "",
+    "text": "Guided Notes\nFILES: BLANK lecture-2.pdf, lecture-2.tex, and style-notes.sty",
+    "crumbs": [
+      "Test 1",
+      "Lecture 2 -- Counting"
     ]
   }
 ]

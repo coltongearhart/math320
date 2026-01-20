@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.533">
+<meta name="generator" content="quarto-1.4.545">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -304,6 +304,8 @@ ul.task-list li input[type="checkbox"] {
 <p>FILE: <a href="https://github.com/coltongearhart/math320/blob/main/intro/syllabus.tex">syllabus.tex</a> and <a href="https://github.com/coltongearhart/math320/blob/main/intro/style-syllabus.sty">style-syllabus.sty</a></p>
 <embed src="intro/syllabus.pdf" type="application/pdf" width="100%" height="100%">
 
+<embed src="intro/syllabus-exam-p.pdf" type="application/pdf" width="100%" height="100%">
+
 
 
 
@@ -469,7 +471,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
